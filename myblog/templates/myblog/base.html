@@ -12,18 +12,11 @@
   <body>
     {% include './block/navbar.html' %}
 
+    {% block header %}{% endblock %}
 
-    {% block header %}
-    {% endblock %}
+    {% block content %}{% endblock %}
 
-
-    {% block content %}
-    {% endblock %}
-
-
-    {% block pagination %}
-    {% endblock %}
-
+    {% block pagination %}{% endblock %}
 
     {% include './block/footer.html' %}
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
