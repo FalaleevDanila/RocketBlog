@@ -1,5 +1,9 @@
 # RocketBlog
 
+![](https://github.com/FalaleevDanila/RocketBlog/blob/master/img/first.png)
+
+SPA сайт на django, написанный с использованием bootstrap.
+
 ## Регистрация
 
 ![](https://github.com/FalaleevDanila/RocketBlog/blob/master/img/registration1.png)
