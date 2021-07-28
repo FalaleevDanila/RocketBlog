@@ -29,4 +29,4 @@ SPA сайт на django, написанный с использованием b
 
 ## Комментарий
 
-![](https://github.com/FalaleevDanila/RocketBlog/blob/master/img/comment.png)
+![](https://github.com/FalaleevDanila/RocketBlog/blob/master/img/comments.png)
