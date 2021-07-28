@@ -14,3 +14,15 @@
 ## Тэги
 
 ![](https://github.com/FalaleevDanila/RocketBlog/blob/master/img/tag.png)
+
+
+## Поиск
+
+![](https://github.com/FalaleevDanila/RocketBlog/blob/master/img/search.png)
+
+## Пост
+![](https://github.com/FalaleevDanila/RocketBlog/blob/master/img/post.png)
+
+## Комментарий
+
+![](https://github.com/FalaleevDanila/RocketBlog/blob/master/img/comment.png)
