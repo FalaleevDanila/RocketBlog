@@ -1,4 +1,6 @@
 # RocketBlog
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFalaleevDanila%2FRocketBlog.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FFalaleevDanila%2FRocketBlog?ref=badge_shield)
+
 
 ![](https://github.com/FalaleevDanila/RocketBlog/blob/master/img/first.png)
 
@@ -30,3 +32,7 @@ SPA сайт на django, написанный с использованием b
 ## Комментарий
 
 ![](https://github.com/FalaleevDanila/RocketBlog/blob/master/img/comments.png)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFalaleevDanila%2FRocketBlog.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FFalaleevDanila%2FRocketBlog?ref=badge_large)
